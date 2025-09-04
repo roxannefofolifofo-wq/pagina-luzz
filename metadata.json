@@ -1,0 +1,5 @@
+{
+  "name": "Buscador de Escuelas en Santa Fe",
+  "description": "Un recomendador de escuelas secundarias impulsado por IA para Santa Fe, Argentina, basado en tu edad, habilidades, gustos y lo que no te gusta.",
+  "requestFramePermissions": []
+}
